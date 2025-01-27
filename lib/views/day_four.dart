@@ -103,7 +103,7 @@ class _DayFourState extends State<DayFour> with SingleTickerProviderStateMixin {
             ),
             SizedBox(height: 40),
             Text(
-              "1222.24 AFN",
+              "1999 AFN",
               style: TextStyle(
                 fontSize: 24,
                 fontWeight: FontWeight.w500,
