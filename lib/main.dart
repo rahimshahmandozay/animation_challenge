@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:animation_challenge/views/day_three.dart';
+import 'package:animation_challenge/views/day_four.dart';
 
 void main() {
   runApp(const MyApp());
@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Animation Challenge',
-      home: DayThree(),
+      home: DayFour(),
     );
   }
 }
